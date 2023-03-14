@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikrovalnapecnica
 - 👀 I’m interested in web3, web development, blockchain technology...
-- 🌱 I’m civil engineer, currently learning web development, would like to dive deeper in to developer's world.
+- 🌱 I’m civil engineer, currently learning web development, diving deeper in to developer's world.
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me franmiljkovic7@gmail.com
 
